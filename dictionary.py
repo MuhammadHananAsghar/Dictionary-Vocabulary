@@ -1,3 +1,4 @@
+##############################################CREATED BY MUHAMMAD HANAN ASGHAR##################################
 #Library To Load Json in Python
 import json
 #Library To get Similarity between two Strings
@@ -45,3 +46,5 @@ def vocabFunc(word):
 #Line to get input from user
 user_input = input('Enter Word : ')
 vocabFunc(user_input)
+
+##############################################CREATED BY MUHAMMAD HANAN ASGHAR##################################
